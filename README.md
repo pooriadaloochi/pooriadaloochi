@@ -1,6 +1,6 @@
 # Hi, I'm Pooria Daloochi 👋
 
-🚀 **Senior Full-Stack Developer** with over 7 years of experience building high-performance applications using modern web technologies. Specializing in React.js, Next.js, Node.js, and TypeScript, I am passionate about creating scalable solutions that enhance user experiences.
+🚀 **Senior Full-Stack Developer** with over 8 years of experience building high-performance applications using modern web technologies. Specializing in React.js, Next.js, Node.js, and TypeScript, I am passionate about creating scalable solutions that enhance user experiences.
 
 💼 **Currently**:  
 - Senior Full-Stack Developer at [Tradevest GmbH](https://www.tradevest.ai) | Munich, Germany
